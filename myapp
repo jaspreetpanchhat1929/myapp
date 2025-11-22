@@ -1,1 +1,2 @@
 echo "console.log('Hello from server');" > app.js
+echo "console.log('CI-CD is working now!')" >> myapp/app.js
